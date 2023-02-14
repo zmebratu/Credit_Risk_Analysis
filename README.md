@@ -7,11 +7,11 @@ The purpose of this project is to predict credit risk using maching learning. Th
 
 In total, 6 machcine learning models were used. 
 
-# Naive Random Oversampling
+### Naive Random Oversampling
 * The balanced accuracy score was 64%
 * The precision score had a high risk of 0.01 and the low risk of 1.00
 * The recall score had a high risk of 0.60 and a low risk of 0.68
 
-![plot](static/images/start.png) 
+![plot](Pictures/Naive Random Oversampling.png) 
 
 
