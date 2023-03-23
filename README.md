@@ -1,4 +1,4 @@
-# Credit_Risk_Analysis
+# Credit Risk Analysis
 
 ## Overview
 In recent years, the FinTech industry has utilized Machine Learning for analyzing and predicting credit risk for their potential users. Machine Learning involves using statistical algorithms to learn patterns from data and make predictions, which is why it is a powerful tool for this purpose. It provides a faster and more reliable loan experience, and can accurately choose candidates for credit loans. However, selecting the appropriate model requires multiple evaluations to determine the one that best fits the specific data.
