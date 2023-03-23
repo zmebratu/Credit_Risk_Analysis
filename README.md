@@ -1,7 +1,9 @@
 # Credit_Risk_Analysis
 
-## Purpose
-The purpose of this project was to predict credit risk using machine learning. The credit card dataset obtained for this task, was from a lending services company called LendingClub. The data will be oversampled and undersampled using RandomOverSampler, SMOTE and ClusterCentroids algorithm. From there machine learning models such as, BalancedRandomForestClassifier and EasyEnsembleClassifier will be used to further predict credit risk. The findings should then allow me to evaluate which unbiased model performed the best.
+## Overview
+In recent years, the FinTech industry has utilized Machine Learning for analyzing and predicting credit risk for their potential users. Machine Learning involves using statistical algorithms to learn patterns from data and make predictions, which is why it is a powerful tool for this purpose. It provides a faster and more reliable loan experience, and can accurately choose candidates for credit loans. However, selecting the appropriate model requires multiple evaluations to determine the one that best fits the specific data.
+
+For this project, we tackled a real-world challenge involving credit card risk, using a dataset from LendingClub, a peer-to-peer lending services company. This type of risk presents an inherent unbalanced classification problem, since good loans far outnumber risky ones.
 
 ## Results
 
